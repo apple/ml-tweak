@@ -1,0 +1,12 @@
+torch
+pandas
+
+spacy==3.5.4
+sacrebleu==2.3.1
+rouge-score
+bert_score
+sentence_transformers
+
+evaluate==0.4.0
+datasets==2.13.1
+accelerate
